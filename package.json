@@ -1,0 +1,30 @@
+{
+  "name": "xcssum.github.io",
+  "version": "1.0.0",
+  "description": "github.io",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcssum/xcssum.github.io.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "xcssum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcssum/xcssum.github.io/issues"
+  },
+  "homepage": "https://github.com/xcssum/xcssum.github.io#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "vue": "^2.3.0"
+  }
+}
