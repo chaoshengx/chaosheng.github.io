@@ -1,0 +1,8 @@
+title: 万丈高楼平地起
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
